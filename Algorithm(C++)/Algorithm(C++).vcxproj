@@ -131,10 +131,12 @@
     <ClCompile Include="1085.cpp" />
     <ClCompile Include="11050.cpp" />
     <ClCompile Include="11726.cpp" />
+    <ClCompile Include="12790.cpp" />
     <ClCompile Include="14487.cpp" />
     <ClCompile Include="1463.cpp" />
     <ClCompile Include="1789.cpp" />
     <ClCompile Include="2563.cpp" />
+    <ClCompile Include="2744.cpp" />
     <ClCompile Include="2755.cpp" />
     <ClCompile Include="2765.cpp" />
     <ClCompile Include="28278.cpp" />
