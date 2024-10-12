@@ -57,5 +57,11 @@
     <ClCompile Include="Facebook(인터뷰).cpp">
       <Filter>소스 파일\algorithm_study</Filter>
     </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1085.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
