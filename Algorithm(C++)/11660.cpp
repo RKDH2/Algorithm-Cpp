@@ -2,7 +2,9 @@
 
 using namespace std;
 
-int graph[2025][2025];
+const int MAX = 2025;
+
+int graph[MAX][MAX];
 
 int main() {
     ios_base::sync_with_stdio(false);
